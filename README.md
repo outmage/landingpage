@@ -1,2 +1,3 @@
-# landingpage
-Just a plain old landing page.
+# Simple Landing Page
+
+Explanatory landing page for OutMage.com
